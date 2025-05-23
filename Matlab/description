@@ -1,0 +1,5 @@
+Matlab code for running the analyses (Analyze_....) and for creating the figures (MakeFigure...).
+The Analyze functions load the original data files, implement analyses and save results. 
+Those result files were too big to be uploaded on git, as they contain results from data randomizations
+  
+The MakeFigure functions require these intermediate files to produce figures.
